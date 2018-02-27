@@ -1,0 +1,10 @@
+# game_name: Super Mario Bros. 3
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Super Mario Bros. 3"
+rom_config = "Super Mario Bros. 3.zip.cfg"
+overlay_config = "Super Mario Bros. 3.cfg"
+overlay_image = "Super Mario Bros. 3_lilbud-ovl.png"
+launching_image = "Super Mario Bros. 3-launching.png"
+scrape_image = "Super Mario Bros. 3-image.png"
+system = "nes"

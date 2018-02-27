@@ -1,0 +1,10 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Metroid"
+rom_config = "Metroid.zip.cfg"
+overlay_config = "Metroid.cfg"
+overlay_image = "Metroid_lilbud-ovl.png"
+launching_image = "Metroid-launching.png"
+scrape_image = "Metroid-image.png"
+system = "nes"
