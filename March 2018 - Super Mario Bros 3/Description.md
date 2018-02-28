@@ -14,7 +14,7 @@ Super Mario Bros. 3 was released in 1988 for the NES and Famicom. This is widly 
 
 [Review](http://www.nintendolife.com/reviews/vc/super_mario_bros_3_nes)
 
-Now here is a link to the [G.O.T.M Art Pack™](https://github.com/lilbud/Game-of-the-Month/blob/master/March 2018 - Super Mario Bros 3). This includes custom box art for ES/Kodi or whatever you use. A launching image for the runcommand menu, and an Overlay for in game.
+Now here is a link to the [G.O.T.M Art Pack™](https://github.com/lilbud/Game-of-the-Month/tree/master/March%202018%20-%20Super%20Mario%20Bros%203). This includes custom box art for ES/Kodi or whatever you use. A launching image for the runcommand menu, and an Overlay for in game.
 
 #Game of the Month Challenge
 
