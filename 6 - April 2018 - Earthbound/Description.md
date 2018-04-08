@@ -12,6 +12,8 @@
 
 [Earthbound Fan Site/Wiki](http://starmen.net/mother2/)
 
+Now here is a link to the [G.O.T.M Art Pack™](https://github.com/lilbud/Game-of-the-Month/tree/master/6%20-%20April%202018%20-%20Earthbound). This includes custom box art for ES/Kodi or whatever you use. A launching image for the runcommand menu, and an Overlay for in game.
+
 # Game of the Month Challenge
 
 This months challenge is [Kingly Regalia I](http://retroachievements.org/Achievement/13463) You must find the Sword of Kings and give it to the Crown Prince of Dalaam; Poo. (Obviously this game is full of very mature humor.) Have Fun, and don't take any crap from anybody.
