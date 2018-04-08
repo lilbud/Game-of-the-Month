@@ -1,6 +1,6 @@
 # Earthbound / Mother 2
 
-**Developers: 	Ape, HAL Laboratory**
+**Developers: Ape, HAL Laboratory**
 
 **Publisher: Nintendo**
 
