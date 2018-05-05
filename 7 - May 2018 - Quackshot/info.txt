@@ -1,0 +1,10 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Earthbound"
+rom_config = "Earthbound.zip.cfg"
+overlay_config = "Earthbound.cfg"
+overlay_image = "Earthbound_lilbud-ovl.png"
+launching_image = "Earthbound-launching.png"
+scrape_image = "Earthbound-image.png"
+system = "snes"
