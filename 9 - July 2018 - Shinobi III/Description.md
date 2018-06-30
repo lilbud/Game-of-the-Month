@@ -3,7 +3,9 @@
 ------
 
 **Publisher(s): Sega**
+
 **Developer(s): Sega, Megasoft **
+
 **Platform(s): Sega Genesis, Windows, Wii, 3DS, IOS, PS2, PS3**
 
 ------
@@ -30,7 +32,9 @@
 # Links
 
 [Soundtrack Download](https://downloads.khinsider.com/game-soundtracks/album/shinobi-3-return-of-the-ninja-master-original-game-audio)
+
 [Classic Game Room Review](https://kutt.it/l4O9xy)
+
 [G.O.T.M Art Pack™](https://github.com/lilbud/Game-of-the-Month/tree/master/9%20-%20July%202018%20-%20Shinobi%20III)
 
 ------
