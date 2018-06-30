@@ -17,13 +17,9 @@
 
 ​	Shinobi III: Return of the Ninja Master was released in 1993 for the Sega Genesis/Mega Drive. It was created by Sega and Megasoft. Shinobi 3 is the continuation of the 'Shinobi' Franchise started back in the arcades and brought home on the Sega Master System. 
 
-​	The year is 199X, Neo Zeed is back with a vengeance. Once thought to be destroyed by the legendary Shinobi, AKA Joe Musashi. But since this is a video game no one is dead, they're just resting.
+Joe Musashi is the Shinobi. The last in a line of legendary Ninja (Ninji? Ninjas?) He carries with him the skills necessary to take down any threat. He also carries a target on his head as the last Shinobi. After him, there are no more left. So it's kind of important that he doesn't die. Because if Joe dies, the Shinobi do as well.
 
-​	Joe Musashi, the Shinobi. ~~The hero of time~~ The Ninja hero, is back to save the day. Probably reluctantly because this is the 3rd time he has had to fight Neo Zeed and he is getting bored of the same old same old. Probably didn't want to get out of bed that day.
-
-​	Neo Zeed, a crime organization focused around rebuilding the image of Zeed. Zeed was also a crime organization, but they are gone now. I think. Neo Zeed is the new one because Neo is close to 'new'. New Zeed sounds stupid. Nevertheless, Zeed is back because reasons. (Aren't tired of getting their asses kicked repeatedly.)
-
-​	Joe's job and therefore your job is to go through the levels and save the world for the 3rd time (hopefully this one is the charm.) Probably won't be because, once again, reasons. 
+​	Neo Zeed is a crime organization focused around rebuilding the image of Zeed. Zeed was also a crime organization, but they are gone now. I think. Neo Zeed is the new one because Neo is close to 'new'. New Zeed sounds stupid. Nevertheless, Zeed is back because reasons. (Aren't tired of getting their asses kicked repeatedly.)
 
 ​	You have a powerful arsenal of tools at your disposal. Including a mid-air dash kick. The ability to climb walls and a running slash, among others. Using these techniques and the will to not throw your controller, you have all you need to take down Neo Zeed and save the world.
 
