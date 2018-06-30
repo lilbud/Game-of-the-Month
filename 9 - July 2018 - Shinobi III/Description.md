@@ -4,7 +4,7 @@
 
 **Publisher(s): Sega**
 
-**Developer(s): Sega, Megasoft **
+**Developer(s): Sega, Megasoft**
 
 **Platform(s): Sega Genesis, Windows, Wii, 3DS, IOS, PS2, PS3**
 
