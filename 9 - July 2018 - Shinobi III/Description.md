@@ -8,6 +8,11 @@
 
 ------
 
+Platform(s): Sega Genesis, Windows, Wii, 3DS, IOS, PS2, PS3
+
+---
+
+	`"He is stronger than steeland moves faster than a whirlwind.Sometimes he hides in mud.Other times he transforms hisshape like an ever changing cloud.Although his fighting spirit burnslike fire, his mind is as calm asstill water.Should Shinobi fail beforecompleting the mission, he willdisappear before the dawn andvanish forever.Keep this knowledge in your heartand mind."`
 
 
 ------
