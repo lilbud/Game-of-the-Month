@@ -10,18 +10,18 @@
 
 ------
 
-> ​	"He is stronger than steel and moves faster than a whirlwind.Sometimes he hides in mud.Other times he transforms his shape like an ever changing cloud.Although his fighting spirit burns like fire, his mind is as calm as still water. Should Shinobi fail before completing the mission, he will disappear before the dawn and vanish forever.Keep this knowledge in your heart and mind."
+> 	"He is stronger than steel and moves faster than a whirlwind.Sometimes he hides in mud.Other times he transforms his shape like an ever changing cloud.Although his fighting spirit burns like fire, his mind is as calm as still water. Should Shinobi fail before completing the mission, he will disappear before the dawn and vanish forever.Keep this knowledge in your heart and mind."
 >
 > --From the
 >    'Secret Manual of Oboro Ninjitsu'
 
-   Shinobi III: Return of the Ninja Master was released in 1993 for the Sega Genesis/Mega Drive. It was created by Sega and Megasoft. Shinobi 3 is the continuation of the 'Shinobi' Franchise started back in the arcades and brought home on the Sega Master System. 
+Shinobi III: Return of the Ninja Master was released in 1993 for the Sega Genesis/Mega Drive. It was created by Sega and Megasoft. Shinobi 3 is the continuation of the 'Shinobi' Franchise started back in the arcades and brought home on the Sega Master System. 
 
-   Joe Musashi is the Shinobi. The last in a line of legendary Ninja (Ninji? Ninjas?) He carries with him the skills necessary to take down any threat. He also carries a target on his head as the last Shinobi. After him, there are no more left. So it's kind of important that he doesn't die. Because if Joe dies, the Shinobi do as well.
+Joe Musashi is the Shinobi. The last in a line of legendary Ninja (Ninji? Ninjas?) He carries with him the skills necessary to take down any threat. He also carries a target on his head as the last Shinobi. After him, there are no more left. So it's kind of important that he doesn't die. Because if Joe dies, the Shinobi do as well.
 
-   Neo Zeed is a crime organization focused around rebuilding the image of Zeed. Zeed was also a crime organization, but they are gone now. I think. Neo Zeed is the new one because Neo is close to 'new'. New Zeed sounds stupid. Nevertheless, Zeed is back because reasons. (Aren't tired of getting their asses kicked repeatedly.)
+Neo Zeed is a crime organization focused around rebuilding the image of Zeed. Zeed was also a crime organization, but they are gone now. I think. Neo Zeed is the new one because Neo is close to 'new'. New Zeed sounds stupid. Nevertheless, Zeed is back because reasons. (Aren't tired of getting their asses kicked repeatedly.)
 
-   You have a powerful arsenal of tools at your disposal. Including a mid-air dash kick. The ability to climb walls and a running slash, among others. Using these techniques and the will to not throw your controller, you have all you need to take down Neo Zeed and save the world.
+You have a powerful arsenal of tools at your disposal. Including a mid-air dash kick. The ability to climb walls and a running slash, among others. Using these techniques and the will to not throw your controller, you have all you need to take down Neo Zeed and save the world.
 
 ------
 
